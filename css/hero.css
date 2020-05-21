@@ -1,0 +1,66 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-color: salmon;
+	text-align:center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+
+}
+header h1{
+	color: white;
+	font-size: 50px;
+
+}
+header img{
+	border-radius: 150px;
+	width: 300px
+}
+h1, h2{
+	font-family: 'Anton', sans-serif;
+}
+main{
+	max-width: 800px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+main img{
+	max-width: 100%;
+}
+footer{
+	text-align: center;
+	background-color: salmon;
+	padding:50px;
+}
+h2{
+	font-size: 30px;
+	color: red;
+}
+
+p{
+	font-size: 20px
+}
+a{
+	color:red;
+}
+a:hover{
+	color:purple;
+}
+footer p{
+	margin: 0;
+}
+
+p.italic {
+	font-style: italic;
+	margin: 0;
+	text-align: left;
+	font-size: 15px
+
+}
